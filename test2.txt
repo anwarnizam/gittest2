@@ -1,1 +1,2 @@
 This is second from master
+Modified from branch child2
