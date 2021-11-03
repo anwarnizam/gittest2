@@ -1,2 +1,3 @@
 This is the first file from master branch
 Second line from child branch
+Third line to test build trigger in Jenkins
